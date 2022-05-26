@@ -17,11 +17,6 @@ PeripheralComponentInterconnectDeviceDescriptor::~PeripheralComponentInterconnec
 }
 
 
-
-
-
-
-
 PeripheralComponentInterconnectController::PeripheralComponentInterconnectController()
 : dataPort(0xCFC),
   commandPort(0xCF8)

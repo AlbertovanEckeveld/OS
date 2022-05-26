@@ -16,7 +16,7 @@ sudo apt-get install virtualbox grub-pc xorriso
 git clone https://github.com/AlbertovanEckeveld/OS
 ```
 
-## Configuration:
+## Run:
 
 ### Run makefile
 
